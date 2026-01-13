@@ -5,3 +5,5 @@ Our process began with a critical reassessment of our project scope, redirecting
 
 # [Our Solution](https://github.com/ZarahMathew/Community-Design-Project-Gearbox/blob/main/Gearbox%20Visual%20Abstract.pdf)
 The Gearbox consists of an external case and an ergonomic handle, attached to a gear rack. There is a large wheel and three gears within this system, with the large gear attached to one side of the reed and the other side of the reed attached to the smallest gear. One turn of the handle results in the small gear twisting the reed multiple times and the other side of the reed plying over it once. This mechanism quickens the process of cordage making, while eliminating the extensive force on the thumb joints and fine-motor motion.
+
+<img width="3600" height="4800" alt="Team6_One-pager-1" src="https://github.com/user-attachments/assets/310fb33f-9b75-4a37-b32e-32d635203aac" />
